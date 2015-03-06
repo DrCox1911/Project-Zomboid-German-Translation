@@ -3,6 +3,9 @@
 - Deutsche PZ Übersetzung -
 
 Bitte denkt daran, dass hier keineswegs professionelle Übersetzer am Werk sind. Verbesserungsvorschläge sind daher immer willkommen [:)]
+
+http://theindiestone.com/forums/index.php/topic/1515-german-translation/
+
  
 ( Den "media"-Ordner im ZIP-Archiv, einfach in das PZ-Hauptverzeichnis kopieren und überschreiben lassen. )
  
