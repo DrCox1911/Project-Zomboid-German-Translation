@@ -125,5 +125,14 @@ Recipes_DE = {
 	Recipe_Open_Canned_Soup = "Öffne, Konserve mit Suppe",
 	Recipe_Open_Canned_Tomato = "Öffne, Konserve mit Tomaten",
 	Recipe_Open_Paperclip_box = "Öffne, Schachtel mit Büroklammern",
-	
+	Recipe_Get_Bacon_Bits = "entnehme Speckwürfel",
+	Recipe_Get_Bacon_Rashers = "entnehme Speckstreifen",
+	Recipe_Put_in_Packet = "Lege in Schachtel",
+	Recipe_Pie = "Torte",
+	Recipe_Roasted_Vegetables = "Gebratenes Gemüse",
+	Recipe_Salad = "Salat",
+	Recipe_Sandwich = "Sandwich",
+	Recipe_Soup = "Suppe",
+	Recipe_Stew = "Eintopf",
+	Recipe_Stir_fry = "Pfannengericht",
 }
