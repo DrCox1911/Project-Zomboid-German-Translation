@@ -90,4 +90,8 @@ Tooltip_DE = {
     Tooltip_Journal_UnLock = "Schreibschutz entfernen.",
     Tooltip_Journal_Erase = "Seite leeren",
 	Tooltip_UseOnHealthPanel = "Rechtsklick auf die Gesundheitsanzeige, um es zu benutzen.",
+	Tooltip_item_TaintedWater = "verdorbenes Wasser",
+	Tooltip_weapon_AmmoCount = "Munitionsverbrauch",
+	Tooltip_tainted = "verdorben ",
+	
 	}

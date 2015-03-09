@@ -107,4 +107,9 @@ Recipes_DE = {
 	Recipe_Make_4_Log_Stacks = "Stapel aus 4 Baumstämmen herstellen",
 	Recipes_Get_Wire_Back = "Draht zurückgewinnen",
 	Recipes_Make_Splint = "Schiene herstellen",
+	Recipe_Burger = "Hamburger zubereiten",
+	Recipe_Cake = "Kuchen zubereiten",
+	Recipe_Clean_Bandage = "Bandage reinigen",
+	Recipe_Cut_Frog = "Frosch zerlegen",
+	Recipe_Empty_Frying_Pan = "Bratpfanne entleeren",
 }
