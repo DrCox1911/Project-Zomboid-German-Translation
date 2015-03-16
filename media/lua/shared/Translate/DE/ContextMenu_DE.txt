@@ -213,4 +213,5 @@ ContextMenu_DE = {
 	ContextMenu_RemoveGrass = "Gras entfernen",
 	ContextMenu_RemoveWallVine = "Weinrebe entfernen",
 	ContextMenu_CleanBlood = "Blutflecken entfernen",
+	ContextMenu_WaterName = "Wasser",
 }
