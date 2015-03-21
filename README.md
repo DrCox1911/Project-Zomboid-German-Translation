@@ -21,7 +21,7 @@ Contributors (Mitwirkende)
     Thuztor - Touchups
     nasKo - Touchups
     cAmou309 - Touchups
-    Nightmare - Fixing / Cleanup / Adding New / Touchups / Sandbox - GUI
+    Nightmare - Fixing / Cleanup / Adding New / Touchups / Sandbox - GUI / Challenges
     A.Z.A.B - Traits / items / Touchups
     Dr_Cox1911 - Map Description
 
