@@ -545,5 +545,4 @@ Items_DE = {
 	DisplayNameTofu = "Tofu",
 	DisplayNameYoghurt = "Joghurt",
 	DisplayNameJar_Lid = "Glasdeckel",
-	
 }
