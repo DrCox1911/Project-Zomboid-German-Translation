@@ -405,9 +405,9 @@ UI_DE = {
 	UI_profdesc_unemployed = "8 freie Eigenschaftspunkte",
 	UI_characreation_clothing = "Kleidung",
 	UI_characreation_clothing_none = "Keine",
-	UI_characreation_clothing_top = "Oben",
-	UI_characreation_clothing_bottom = "Unten",
-	UI_characreation_clothing_footwear = "Schuhe",
+	UI_characreation_clothing_top = "Oberkörper",
+	UI_characreation_clothing_bottom = "Beine",
+	UI_characreation_clothing_footwear = "Füße",
 	UI_optionscreen_binding_Melee = " Nahkampf",
 	UI_optionscreen_binding_Show Ping = "  Ping anzeigen",
 }
