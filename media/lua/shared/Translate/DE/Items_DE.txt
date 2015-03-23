@@ -543,6 +543,6 @@ Items_DE = {
 	DisplayName_Jar_of_Eggplants = "Eingelegte Auberginen",
 	DisplayName_Jar_of_Leeks = "Eingelegter Lauch",
 	DisplayName_Jar_of_Potatoes = "Eingelegte Kartoffeln",
-	DisplayName_Jar_of_Red_Radishes = "Eingelegter Radieschen",
+	DisplayName_Jar_of_Red_Radishes = "Eingelegte Radieschen",
 	DisplayName_Jar_of_Tomatoes = "Eingelegte Tomaten",
 }
